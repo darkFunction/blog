@@ -1,0 +1,53 @@
+# Site settings
+baseurl = "https://notes.darkfunction.com"
+themesDir = "themes"
+languageCode = "en-gb"
+title = "Sam Taylor"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+
+[params]
+	name = "Sam Taylor"
+	description = "Learning and personal development blog"
+	bio = "Happiness is programming & techno"
+	# Enter optionally your twitter account
+	twitter = ""
+	enableRSS = true
+
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	subscribe = "Subscribe"
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = "Read more"
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Author. Dreamweaver. Visionary. Plus actor."
+	tweet = " "
+	share = " "
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    github   = "https://www.github.com/darkFunction"
+    linkedin   = "https://www.linkedin.com/in/darkfunction/"
+    twitter  = "https://www.twitter.com/darkFunction"
