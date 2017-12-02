@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://notes.darkfunction.com"
+baseurl = "https://darkfunction.github.io"
 themesDir = "themes"
 languageCode = "en-gb"
 title = "Sam Taylor"
