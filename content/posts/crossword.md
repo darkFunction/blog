@@ -8,9 +8,9 @@ Added a [crossword section](http://verbedujour.com/crossword) to VerbeDuJour for
 
 ![Crossword preview](/images/crossword.png)
 
-Below is the Typescript utility which takes an array of answers and compresses them into a crossword table with as many crossover points as possible.
+Below is the Typescript utility which takes an array of answers and compresses them into a crossword table with as many crossover points as possible. This allows the site to dynamically generate crosswords every month from daily verbs.
 
-```ts	
+```js	
 
 function createTable(tableData) {
   var table = document.createElement('table');
