@@ -1,5 +1,5 @@
 ---
-title: "Datascience exploration: WTA Height Advantages"
+title: "Datascience: WTA Height Advantages"
 date: 2018-09-11
 tags: [ "python", "datascience" ]
 ---
