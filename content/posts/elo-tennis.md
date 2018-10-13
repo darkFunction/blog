@@ -1,5 +1,5 @@
 ---
-title: "Datascience: Genetically evolved ELO performance for bet profitability in tennis"
+title: "Datascience: Genetically evolved ELO parameters for bet profitability in tennis"
 date: 2018-09-12
 tags: [ "python", "datascience" ]
 ---
