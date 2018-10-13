@@ -409,9 +409,3 @@ plt.show()
 
 ![png](/images/output_11_0.png)
 
-
-
-```python
-
-```
-
